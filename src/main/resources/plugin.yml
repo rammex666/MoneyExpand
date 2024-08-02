@@ -1,0 +1,5 @@
+name: MoneyExpand
+version: '${project.version}'
+main: org.rammex.moneyexpand.MoneyExpand
+api-version: '1.20'
+depend: [Vault, SuperiorSkyblock2]
